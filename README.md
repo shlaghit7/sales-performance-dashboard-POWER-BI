@@ -39,19 +39,18 @@ This project is an interactive **Power BI dashboard** designed to analyze sales 
 * Monitor sales target achievement
 * Analyze growth trends over time
 
----
-
 ## 📁 Files Included
 
 * `Sales_Performance_Dashboard.pbix`
 * `Sales_Dashboard_Dataset.xlsx`
 * `dashboard.png`
 
----
-
 ## 📸 Dashboard Previewdataset-<a href="https://github.com/shlaghit7/sales-performance-dashboard-POWER-BI"
 
 ![Dashboard](dashboard.png)
+<img width="1920" height="1080" alt="P1-SALES PERFORMANCE-POWERBI-SS-1" src="https://github.com/user-attachments/assets/00697360-7e5b-46ec-8cb6-ea889c21e39c" />
+<img width="1920" height="1080" alt="P1-SALES PERFORMANCE-POWERBI-SS-2" src="https://github.com/user-attachments/assets/fceee944-65d9-4597-b1d7-2fb5bcd235a7" />
+
 
 ---
 
